@@ -8,6 +8,9 @@ This is a Shiny web application designed for analyzing crime data in Boston. The
 
 You can try the application online by clicking [here](https://rashid01.shinyapps.io/crime/).
 
+**Note:** The website may take a few moments to load the first time you access it.
+
+ 
 ## Libraries and Data Loading
 
 The application begins by loading necessary libraries such as `shiny`, `dplyr`, `ggplot2`, `leaflet`, and `scales`. These libraries are essential for data manipulation, visualization, and creating interactive maps.
