@@ -4,6 +4,8 @@
 
 This is a Shiny web application designed for analyzing crime data in Boston. The application allows users to explore various aspects of crime data, including offense code groups, shootings, crime trends by date, UCR (Uniform Crime Reporting) parts, and streets with the highest and lowest crime rates. Additionally, it provides a heatmap representation of crimes in Boston.
 
+For a comprehensive and detailed view of the project, you can find the complete analysis in the "MA 415 - Analysis on Crime Patterns in Boston Final.pdf" document.
+
 ## Try It Online
 
 You can try the application online by clicking the link [here](https://rashid01.shinyapps.io/crime/) (right-click and choose "Open link in new tab" for the best experience).
