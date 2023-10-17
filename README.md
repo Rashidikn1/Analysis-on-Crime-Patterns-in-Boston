@@ -6,7 +6,7 @@ This is a Shiny web application designed for analyzing crime data in Boston. The
 
 ## Try It Online
 
-You can try the application online by clicking [here](https://rashid01.shinyapps.io/crime/).
+You can try the application online by clicking <a href="https://rashid01.shinyapps.io/crime/" target="_blank">here</a>.
 
 **Note:** The website may take a few moments to load the first time you access it.
 
