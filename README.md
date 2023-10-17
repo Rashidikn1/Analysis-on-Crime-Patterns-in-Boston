@@ -8,6 +8,10 @@ This is a Shiny web application designed for analyzing crime data in Boston. The
 
 You can try the application online by clicking <a href="https://rashid01.shinyapps.io/crime/" target="_blank">here</a>.
 
+Click [here](https://[www.geeksforgeeks.org/](https://rashid01.shinyapps.io/crime/)){:target="_blank"}
+
+<a href="https://www.geeksforgeeks.org/" target="_blank">here </a> to visit GeeksForGeeks website.
+
 **Note:** The website may take a few moments to load the first time you access it.
 
  
